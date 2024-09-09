@@ -1,3 +1,5 @@
+[Corresponding paper](https://arxiv.org/pdf/2401.12713): "Generating Zero-shot Abstractive Explanations for Rumour Verification". Iman Munire Bilal and Preslav Nakov and Rob Procter and Maria Liakata. 2024
+
 # Explainability for Rumour Verification
 Due to file constraints, download the entire project with saved data structures from [here](https://drive.google.com/drive/folders/1fncXMlHcde2yA4uNJNo84X_28PCSZqGW?usp=drive_link).
 
